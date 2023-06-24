@@ -1,4 +1,4 @@
-### Hi there 👋
+### Hi👋， I'm Jiu Chen, I go by Charlie.
 
 - 👨🏽‍💻 I am currently a senior in Computer Science at [Oregon State University](https://oregonstate.edu)
 - 🌱 I’m currently learning Deep Learning and Operation System.
