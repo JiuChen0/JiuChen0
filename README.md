@@ -4,7 +4,7 @@
 - 🌱 I’m currently learning Deep Learning and Operation System.
 - 🤔 My interests lie in playing video games, I own an Xbox console and a Nintendo Switch；
 - 💬 Ask me about anything;
-- 📫 email me if you have any thought;
+- 📫 email me if you have any thoughts;
 ### My Github Contributions: 
 ![](https://raw.githubusercontent.com/JiuChen0/JiuChen0/main/assets/github-contribution-grid-snake.svg)              
 
