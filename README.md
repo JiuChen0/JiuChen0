@@ -7,9 +7,7 @@
 - 📫 email me if you have any thoughts;
 ### My Github Contributions: 
 ![](https://raw.githubusercontent.com/JiuChen0/JiuChen0/main/assets/github-contribution-grid-snake.svg)              
-
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=JiuChen0)](https://github.com/JiuChen0/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=JiuChen0&layout=compact)](https://github.com/JiuChen0/github-readme-stats)
 <!--
 **JiuChen0/JiuChen0** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
