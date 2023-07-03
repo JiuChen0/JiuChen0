@@ -1,10 +1,10 @@
 ### Hi👋， I'm Charlie.
 
-- 👨🏽‍💻 I'm currently a senior in Computer Science at [Oregon State University](https://oregonstate.edu)
+- 👨🏽‍💻 I'm currently a senior in Computer Science at [Oregon State University](https://oregonstate.edu).
 - 🌱 I’m currently learning Deep Learning and Operation System.
-- 🤔 My interests lie in playing video games, I own an Xbox console and a Nintendo Switch；
-- 💬 Ask me about anything;
-- 📫 email me if you have any thoughts;
+- 🤔 My interests lie in playing video games, I own an Xbox console and a Nintendo Switch.
+- 💬 Ask me about anything.
+- 📫 Email me if you have any thoughts.
 ### My GitHub Contributions: 
 ![](https://raw.githubusercontent.com/JiuChen0/JiuChen0/main/assets/github-contribution-grid-snake.svg)
 ![My GitHub stats](https://github-readme-stats.vercel.app/api?username=JiuChen0&show_icons=true&theme=default)
