@@ -1,7 +1,7 @@
 ### Hi👋， I'm Charlie.
 
 - 👨🏽‍💻 I'm currently a senior in Computer Science at [Oregon State University](https://oregonstate.edu).
-- 🌱 I’m currently learning Deep Learning and Operation System.
+- 🌱 I’m currently learning Deep Learning.
 - 🤔 My interests lie in playing video games, I own an Xbox console and a Nintendo Switch.
 - 💬 Ask me about anything.
 - 📫 Email me if you have any thoughts.
