@@ -1,6 +1,6 @@
 ### Hi👋， I'm Charlie.
 
-- 👨🏽‍💻 I'm currently a senior in Computer Science at [Oregon State University](https://oregonstate.edu).
+- 👨🏽‍💻 I'm currently a Master in Computer Science at [Washington University in St. Louis](https://wustl.edu).
 - 🌱 I’m currently learning Deep Learning.
 - 🤔 My interests lie in playing video games.
 - 💬 Ask me about anything.
