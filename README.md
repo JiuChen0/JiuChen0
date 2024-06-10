@@ -1,6 +1,8 @@
 ### Hi👋， I'm Charlie.
 
-- 👨🏽‍💻 I'm currently a Master in Computer Science at [Washington University in St. Louis](https://wustl.edu).
+- 👨🏽‍💻 I'm currently graduating from [Oregon State University](https://oregonstate.edu) with my undergraduate degree in June 2024, and I will be going to [Washington University in St. Louis](https://wustl.edu) in September 2024 to pursue a Master of Science in Computer Science.
+-
+- a Master in Computer Science at .
 - 🌱 I’m currently learning Deep Learning.
 - 🤔 My interests lie in playing video games.
 - 💬 Ask me about anything.
