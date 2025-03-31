@@ -1,7 +1,7 @@
 ### Hi👋， I'm Charlie.
 
 - 👨🏽‍💻 I'm currently pursue a Master of Science in Computer Science in [Washington University in St. Louis](https://wustl.edu).
-- 🌱 I’m currently learning Deep Learning.
+- 🌱 I’m currently learning Artificial Intelligence.
 - 🤔 My interests lie in playing video games.
 - 💬 Ask me about anything.
 - 📫 Email me if you have any thoughts.
