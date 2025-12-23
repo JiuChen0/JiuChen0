@@ -2,8 +2,9 @@
 
 - 👨🏽‍💻 I recently graduated with a Master of Science in Computer Science from [Washington University in St. Louis](https://wustl.edu).
 - 🤔 My interests lie in playing video games.
-<!--- 💬 Ask me about anything.-->
 - 📫 Email me if you have any thoughts.
+<!--- 💬 Ask me about anything.-->
+
 
 
 
