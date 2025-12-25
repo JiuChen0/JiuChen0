@@ -1,7 +1,7 @@
 ### Hi👋， I'm Charlie.
 
 - 👨🏽‍💻 I recently graduated with a Master of Science in Computer Science from [Washington University in St. Louis](https://wustl.edu).
-- 🤔 My interests lie in playing video games.
+- 🤔 My interests lie in MLSys, distributed systems, and LLM inference/training infrastructure.
 - 📫 Email me if you have any thoughts.
 <!--- 💬 Ask me about anything.-->
 
