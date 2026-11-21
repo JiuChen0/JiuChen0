@@ -9,7 +9,7 @@
 
 ### 🧑‍💻 About Me
 
-- 🎓 &nbsp; Ph.D. Student in Electrical Engineering and Computer Science (EECS) — **University of California, Merced**
+- 🎓 &nbsp; Ph.D. Student in Computer Software Engineering — **University of California, Merced**
 - 🎓 &nbsp; M.S. in Computer Science — **Washington University in St. Louis**
 - 🔬 &nbsp; Passionate about **large-scale ML systems**, distributed LLM inference, and heterogeneous computing
 - 🚀 &nbsp; Currently building [**BloomBee**](https://github.com/ai-decentralized/BloomBee) — decentralized LLM fine-tuning & inference with offloading
