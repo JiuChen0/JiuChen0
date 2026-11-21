@@ -9,10 +9,10 @@
 
 ### 🧑‍💻 About Me
 
-- 🎓 &nbsp; Ph.D. Student in Computer Software Engineering — **University of California, Merced**
+- 🎓 &nbsp; Ph.D. Student in Computer Software Engineering — **University of California, Merced**, [**Sequoia Lab**](https://sequoia-lab.github.io/index.html)
 - 🎓 &nbsp; M.S. in Computer Science — **Washington University in St. Louis**
 - 🔬 &nbsp; Passionate about **large-scale ML systems**, distributed LLM inference, and heterogeneous computing
-- 🚀 &nbsp; Currently building [**BloomBee**](https://github.com/ai-decentralized/BloomBee) — decentralized LLM fine-tuning & inference with offloading
+- 🚀 &nbsp; Previously contributed to [**BloomBee**](https://github.com/ai-decentralized/BloomBee) as a visiting researcher at UC Merced’s [**PASA Lab**](https://www.pasalabs.org/)
 - 📫 &nbsp; Reach me at **charlie.jiu0@gmail.com**
 - 🌐 &nbsp; Personal site: [jiuchen0.github.io](https://jiuchen0.github.io)
 
