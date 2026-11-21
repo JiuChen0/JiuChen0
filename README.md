@@ -9,6 +9,7 @@
 
 ### 🧑‍💻 About Me
 
+- 🎓 &nbsp; Ph.D. Student in Electrical Engineering and Computer Science (EECS) — **University of California, Merced**
 - 🎓 &nbsp; M.S. in Computer Science — **Washington University in St. Louis**
 - 🔬 &nbsp; Passionate about **large-scale ML systems**, distributed LLM inference, and heterogeneous computing
 - 🚀 &nbsp; Currently building [**BloomBee**](https://github.com/ai-decentralized/BloomBee) — decentralized LLM fine-tuning & inference with offloading
@@ -43,9 +44,10 @@
 ### 📊 GitHub Stats
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=JiuChen0&show_icons=true&theme=default&hide_border=true&count_private=true" height="165" alt="GitHub Stats" />
+  <!-- Both SVGs use a 12:5 aspect ratio for equal display sizes. -->
+  <img src="https://github-readme-stats.vercel.app/api?username=JiuChen0&amp;show_icons=true&amp;theme=default&amp;hide_border=true&amp;count_private=true&amp;card_width=468" width="380" alt="GitHub Stats" />
   &nbsp;
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=JiuChen0&layout=compact&theme=default&hide_border=true" height="165" alt="Top Languages" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=JiuChen0&amp;layout=compact&amp;theme=default&amp;hide_border=true&amp;langs_count=4&amp;card_width=336" width="380" alt="Top Languages" />
 </div>
 
 ---
